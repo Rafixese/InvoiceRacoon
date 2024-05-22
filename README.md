@@ -1,6 +1,6 @@
 # InvoiceRacoon
 
-![InvoiceRacoon Logo](resources/logo/racoon.webp)
+<img src="resources/logo/racoon.webp" alt="InvoiceRacoon Logo" width="200"/>
 
 ## Overview
 

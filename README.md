@@ -1,5 +1,7 @@
 # InvoiceRacoon
 
+![InvoiceRacoon Logo](resources/logo/racoon.webp)
+
 ## Overview
 
 InvoiceRacoon is an AI-powered tool designed to automate the extraction of key information from invoices. Using advanced OCR and natural language processing technologies, InvoiceRacoon accurately reads and interprets invoice data, streamlining workflows and reducing the need for manual data entry. This tool is ideal for businesses looking to optimize their invoicing processes and enhance operational efficiency.
